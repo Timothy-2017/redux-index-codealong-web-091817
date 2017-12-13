@@ -13,4 +13,6 @@ class App extends Component {
   }
 }
 
+// passing store down as props to children
+
 export default App;
